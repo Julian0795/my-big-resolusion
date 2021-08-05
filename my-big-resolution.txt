@@ -1,3 +1,4 @@
 my resolution:
 - membuat aplikasi permintaan atk/persediaan barang
 - menguasai berbagai macam bahasa program
+- kolaborasi dengan berbagai expert
