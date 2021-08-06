@@ -2,6 +2,8 @@ Branche_1
 
 -tes 1
  *isi 1 tes 1
+  ^ ini hasil tes 1
  *isi 2 tes 1
 -tes 2
 -tes 3
+ * isi 1 tes 3
