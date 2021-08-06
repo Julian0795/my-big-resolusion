@@ -2,6 +2,9 @@ Branche_1
 
 -tes 1
  *isi 1 tes 1
+  ^ hasil 1 tes 1
+  ^ hasil 2 tes 1
  *isi 2 tes 1
 -tes 2
+ *isi 1 tes 2
 -tes 3
