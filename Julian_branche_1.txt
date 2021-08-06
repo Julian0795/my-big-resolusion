@@ -6,5 +6,6 @@ Branche_1
   ^ ini hasil 2 tes 1
  *isi 2 tes 1
 -tes 2
+ *isi 1 tes 2
 -tes 3
  * isi 1 tes 3
